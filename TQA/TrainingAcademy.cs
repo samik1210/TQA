@@ -11,7 +11,7 @@ namespace TQA
         static void Main(string[] args)
         {
             Console.WriteLine("***********************************************************");
-            Console.WriteLine("=================== ACADEMY DETAILS =======================");
+            Console.WriteLine("=================== ACADEMY DETAILS ========================");
             Console.WriteLine("************************************************************");
             DAL D = new DAL();
 
